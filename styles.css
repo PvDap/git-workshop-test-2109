@@ -1,0 +1,18 @@
+.highlighted-article{
+    background-color: red;
+}
+
+#footer-small {
+    height: 100px;
+}
+.product-card {
+    color: white;
+    background-color: seagreen;
+    content: red;
+    padding:3px yellow;
+    border: 5px solid deeppink;
+    margin:9px blue;
+}
+
+.banaan span {color: aqua;}
+.banaan img { background-color: darkblue}
